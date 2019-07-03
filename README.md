@@ -1,4 +1,4 @@
-# Fizzbuzz: Week 4 - Pair Programming TDD
+# Fizzbuzz: Week 4 Pre Course - Pair Programming TDD
 
 #### Objective
 This challenge involved working through the walkthrough with a pair partner to get used to pair programming and TDD approaches that will be regularly used throughout the course.
